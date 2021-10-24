@@ -3,6 +3,7 @@
 
 
 - 📫 How to reach me: ihaveint@gmail.com
+- Currently reading: Types and programming languages (Benjamin C. Pierce), Structure and Interepretation of Computer Programs, [The software foundation series](https://softwarefoundations.cis.upenn.edu)
 - ⚡ Fun fact: I think the below stats are not correct yet :) I'm trying to figure it out
 
 <!--
