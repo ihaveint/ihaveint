@@ -7,7 +7,7 @@
 <ul>
   <ul>
     <li>
-     <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and programming languages (Benjamin C. Pierce)</a>
+     <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and programming languages</a>
     </li>
     <li>
      <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interepretation of Computer Programs</a>
@@ -17,6 +17,9 @@
     </li>
     <li>
      <a href="https://www.manning.com/books/the-programmers-brain">The Programmer's Brain</a>
+    </li>
+    <li>
+     <a href="https://craftinginterpreters.com">Crafting Interpreters</a>
     </li>
   </ul>
 </ul>
