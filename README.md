@@ -21,6 +21,9 @@
     <li>
      <a href="https://craftinginterpreters.com">Crafting Interpreters</a>
     </li>
+    <li>
+      <a href="https://buildyourownlisp.com">Build Your Own Lisp</a>
+    </li>
   </ul>
 </ul>
 
