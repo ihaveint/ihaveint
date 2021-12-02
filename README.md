@@ -24,6 +24,9 @@
     <li>
       <a href="https://buildyourownlisp.com">Build Your Own Lisp</a>
     </li>
+    <li>
+      <a href="https://jessealama.gumroad.com/l/lop-in-racket-cultural-anthro">Language-oriented Programming in Racket: A Cultural Anthropology</a>
+    </li>
   </ul>
 </ul>
 
