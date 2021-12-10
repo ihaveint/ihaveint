@@ -29,7 +29,7 @@
       <a href="https://jessealama.gumroad.com/l/lop-in-racket-cultural-anthro">Language-oriented Programming in Racket: A Cultural Anthropology</a>
     </li>
     <li>
-      <a href="https://interpreterbook.com">writing an Interpreter in go</a>
+      <a href="https://interpreterbook.com">Writing an Interpreter in Go</a>
     </li>
   </ul>
 </ul>
