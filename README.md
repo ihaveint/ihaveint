@@ -3,6 +3,7 @@
 
 
 - 📫 How to reach me: ihaveint@gmail.com
+- Occasionally, I <a href="https://ihaveint.github.io">write</a> where my mind is at.
 - Currently reading: 
 <ul>
   <ul>
