@@ -29,6 +29,9 @@
     <li>
       <a href="https://jessealama.gumroad.com/l/lop-in-racket-cultural-anthro">Language-oriented Programming in Racket: A Cultural Anthropology</a>
     </li>
+    <li>
+      <a href="https://compilerbook.com">Writing A Compiler In Go</a>
+    </li>
   </ul>
 </ul>
 
