@@ -4,6 +4,7 @@
 
 - 📫 How to reach me: ihaveint@gmail.com
 - Occasionally, I <a href="https://ihaveint.github.io">write</a> where my mind is at.
+- My <a href="https://ihaveint.github.io/interests/">favorite</a> things!
 - Currently reading: 
 <ul>
   <ul>
@@ -28,8 +29,6 @@
     <li>
       <a href="https://jessealama.gumroad.com/l/lop-in-racket-cultural-anthro">Language-oriented Programming in Racket: A Cultural Anthropology</a>
     </li>
-    <li>
-      <a href="https://interpreterbook.com">Writing an Interpreter in Go</a>
-    </li>
   </ul>
 </ul>
+
