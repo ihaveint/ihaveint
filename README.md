@@ -9,6 +9,15 @@
 <ul>
   <ul>
     <li>
+      <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three Easy Pieces</a>
+    </li>    
+    <li>
+      <a href="https://nostarch.com/rust-rustaceans">Rust for Rustaceans</a>
+    </li>
+    <li>
+      <a href="https://www.zero2prod.com/">Zero To Production In Rust</a>
+    </li>
+    <li>
      <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and programming languages</a>
     </li>
     <li>
