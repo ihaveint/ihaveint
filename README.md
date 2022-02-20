@@ -12,34 +12,16 @@
       <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three Easy Pieces</a>
     </li>    
     <li>
-      <a href="https://nostarch.com/rust-rustaceans">Rust for Rustaceans</a>
-    </li>
-    <li>
-      <a href="https://www.zero2prod.com/">Zero To Production In Rust</a>
-    </li>
-    <li>
-     <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and programming languages</a>
-    </li>
-    <li>
      <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interepretation of Computer Programs</a>
     </li>
     <li>
      <a href="https://softwarefoundations.cis.upenn.edu">The software foundations series</a>
     </li>
     <li>
-     <a href="https://www.manning.com/books/the-programmers-brain">The Programmer's Brain</a>
+     <a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category theory for programmers</a>
     </li>
     <li>
-     <a href="https://craftinginterpreters.com">Crafting Interpreters</a>
-    </li>
-    <li>
-      <a href="https://buildyourownlisp.com">Build Your Own Lisp</a>
-    </li>
-    <li>
-      <a href="https://jessealama.gumroad.com/l/lop-in-racket-cultural-anthro">Language-oriented Programming in Racket: A Cultural Anthropology</a>
-    </li>
-    <li>
-      <a href="https://compilerbook.com">Writing A Compiler In Go</a>
+     <a href="https://erlang.org/download/armstrong_thesis_2003.pdf">Making reliable distributed systems in the presence of sodware errors</a>
     </li>
   </ul>
 </ul>
