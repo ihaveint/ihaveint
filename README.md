@@ -23,6 +23,13 @@
     <li>
      <a href="https://erlang.org/download/armstrong_thesis_2003.pdf">Making reliable distributed systems in the presence of sodware errors</a>
     </li>
+    <li>
+     <a href="https://pragprog.com/titles/cmelixir/metaprogramming-elixir/">Metaprogramming Elixir</a>
+    </li>
+    <li>
+     <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmatic Programmer, 20th Anniversary Edition
+</a>
+    </li>
   </ul>
 </ul>
 
