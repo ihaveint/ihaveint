@@ -9,26 +9,22 @@
 <ul>
   <ul>
     <li>
-      <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three Easy Pieces</a>
-    </li>    
-    <li>
      <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interepretation of Computer Programs</a>
     </li>
     <li>
      <a href="https://softwarefoundations.cis.upenn.edu">The software foundations series</a>
     </li>
     <li>
-     <a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category theory for programmers</a>
-    </li>
-    <li>
      <a href="https://erlang.org/download/armstrong_thesis_2003.pdf">Making reliable distributed systems in the presence of sodware errors</a>
     </li>
     <li>
-     <a href="https://pragprog.com/titles/cmelixir/metaprogramming-elixir/">Metaprogramming Elixir</a>
+     <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmatic Programmer, 20th Anniversary Edition</a>
     </li>
     <li>
-     <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmatic Programmer, 20th Anniversary Edition
-</a>
+     <a href="https://www.manning.com/books/rust-in-action">Rust in action</a>
+    </li>
+    <li>
+     <a href="https://www.cs.cmu.edu/~rwh/pfpl.html">Practical Foundations for Programming Languages</a>
     </li>
   </ul>
 </ul>
