@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: ihaveint@gmail.com
-- Occasionally, I <a href="https://ihaveint.github.io">write</a> where my mind is at.
+- Everyday, I try to <a href="https://ihaveint.github.io">write</a> where my mind is at!
 - My <a href="https://ihaveint.github.io/interests/">favorite</a> things!
 - Currently reading: 
 <ul>
