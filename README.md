@@ -4,9 +4,9 @@ I'm a soon-to-be Ph.D. student in computer science, and who knows when to be an 
 I'm still trying to figure out how to describe this 'art', but I'll try to share the journey here somehow.
 
 - 📫 How to reach me: ihaveint@gmail.com on email, or [@ihaveint](https://twitter.com/ihaveint) on twitter.
-- Everyday, I <a href="https://ihaveint.github.io">write</a> where my mind is at!
-- My <a href="https://ihaveint.github.io/interests/">favorite</a> things!
-- Currently reading: 
+- ✍️ Everyday, I <a href="https://ihaveint.github.io">write</a> where my mind is at!
+- ✨ My <a href="https://ihaveint.github.io/interests/">favorite</a> things!
+- 📚 Currently reading: 
   <ul>
     <li>
       <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interepretation of Computer Programs</a>
