@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi there!
 
 I'm a soon-to-be Ph.D. student in computer science, and who knows when to be an artist!
 I'm still trying to figure out how to describe this 'art', but I'll try to share the journey here somehow.
