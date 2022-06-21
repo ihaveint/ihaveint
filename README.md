@@ -1,7 +1,6 @@
 ### Hi there!
 
-I'm a soon-to-be Ph.D. student in computer science, and who knows when to be an artist!
-I'm still trying to figure out how to describe this 'art', but I'll try to share the journey here somehow.
+I'm a problem solver; nothing less, nothing more!
 
 - 📫 How to reach me: ihaveint@gmail.com on email, or [@ihaveint](https://twitter.com/ihaveint) on twitter.
 - ✍️ Everyday, I <a href="https://ihaveint.github.io">write</a> where my mind is at!
