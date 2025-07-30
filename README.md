@@ -1,6 +1,6 @@
-### Hi there!
+Hi there!
 
-Trying to consider how engineering might look like from an artistic perspective these days.
+I'm a software engineer exploring AI solutions to solve important problems, especially in developer productivity. My goal is to eliminate wasted time and effort, freeing developers for more impactful work. I focus on automating workflows by blending data engineering, software engineering, and AI.
 
-- 📫 You can reach out to me via email: ihaveint@gmail.com.
-- ✍️ Sometimes I <a href="https://ihaveint.github.io">write</a> where my mind is at! Although these days I'm taking a break.
+- 📫 Reach out via email: soroush.zare00@gmail.com.
+- ✍️ Sometimes I <a href="https://ihaveint.github.io">write</a> where my mind is at! (Currently taking a break.)
